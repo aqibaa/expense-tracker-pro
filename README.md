@@ -19,7 +19,7 @@ A modern, full-stack expense tracking application built to manage personal finan
 
 ### 1. Clone the Repo
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK_HERE>
+git clone <https://github.com/aqibaa/expense-tracker-pro/edit/main/README.md>
 cd expense-tracker-professional
 
 ## 🛠️ SetUp Backend
